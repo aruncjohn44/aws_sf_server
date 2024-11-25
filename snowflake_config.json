@@ -1,0 +1,9 @@
+{
+    "account": "VKPVQAF-ECDP_NONPROD",
+    "user": "AJOHN@ICWGROUP.COM",
+    "AUTHENTICATOR": "externalbrowser",
+    "role": "SG-OKTA-SNOWFLAKE-NONPROD-DATA-SCIENCE-LEAD",
+    "warehouse": "ML_PIPELINES",
+    "database": "ML_PIPELINES_DATA",
+    "schema": "PUBLIC"
+}
