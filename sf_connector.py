@@ -29,6 +29,7 @@ def connect_to_snowflake():
         user='ECDP-MLOPS-SERVICE-USER',
         account='VKPVQAF-ECDP_NONPROD',
         private_key=pkb,
+        warehouse='DEV_WH_COMPUTE',    # Optional
         database='ML_PIPELINES_DATA',      # Optional
         schema='PUBLIC',   # Optional
         role='ECDP-MLOPS-SERVICE-ROLE' # Optional
